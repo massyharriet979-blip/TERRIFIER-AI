@@ -1,0 +1,8 @@
+{
+  "name": "hanyu-snow-react",
+  "version": "1.0.0",
+  "description": "HANYU SNOW REACT - WhatsApp Channel Booster by STORM X - BASED IN KASESE BY DARK NOVA LABS",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2", "cors": "^2.8.5" }
+}
