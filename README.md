@@ -1,10 +1,11 @@
-# TERRIFIER AI
+# TERRIFIER AI, 
+# ONE OF THE BEST PENDING AIs...
 
-Built by **Storm X*  
-Organized with **Alok*
+*BUILT MANAGER AND POWERED BY;
+# ALOK 
+# STORM X
 
-Free for some time or not 
-*till it's out*
+# **TILL OUR BEST OF IT**
 
 ## Backend
 
