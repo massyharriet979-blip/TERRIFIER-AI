@@ -1,17 +1,33 @@
-# TERRIFIER AI, 
-# ONE OF THE BEST PENDING AIs...
+<div align="center">
 
-*BUILT MANAGER AND POWERED BY;
-# ALOK 
-# STORM X
+![TERRIFIER AI](https://readme-typing-svg.herokuapp.com?font=Creepster&size=60&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=TERRIFIER+AI;ART+IS+WATCHING...;BUILT+BY+STORM+X)
 
-# **TILL OUR BEST OF IT**
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=One+of+the+best+pending+AIs...;Free+forever...;Till+our+best+of+it...)
 
-## Backend
+![Red](https://img.shields.io/badge/TERRIFIER-FF0000?style=for-the-badge&logo=clown&logoColor=white)
+![Black](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![Free](https://img.shields.io/badge/FREE-FOREVER-00FF00?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🩸 *BUILT MANAGER AND POWERED BY;*
+
+# <span style="color:#FF0000">ALOK</span>
+# <span style="color:#FFFFFF">STORM X</span>
+
+### *TILL OUR BEST OF IT*
+
+</div>
+
+---
+
+## 🩸 Backend
 
 ```bash
 cd backend
-cp .env.example .env
-# I will add my api later
 npm install
 npm run dev
